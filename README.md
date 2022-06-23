@@ -1,4 +1,4 @@
-# DIO
+# DIO - Flashlight(Lanterna)
 
 Introdução ao React Native - #dioRN
 
